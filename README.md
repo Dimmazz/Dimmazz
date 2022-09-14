@@ -1,7 +1,7 @@
 ## You can call me **Dimmazz** or **MazuSad**.
     I'm an interesting Front End Developer.
     I work with Open Source and non-commercial projects.
-    Now I am looking for a good company in the USA (CA or FL)
+    Now I am looking for a good company in the USA (CA or FL) or in Russia (Moscow, Saint Petersburg)
 
 ---
 
