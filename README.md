@@ -1,7 +1,7 @@
-## You can call me **Dimmazz** or **MazuSad**.
+## You can call me **MazuSad**.
     I'm an interesting Front End Developer.
     I work with Open Source and non-commercial projects.
-    Now I am looking for a good company in the USA (CA or FL) or in Russia (Moscow, Saint Petersburg)
+    Now I'm looking for a good company with interesting projects and team around the world
 
 ---
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazusad/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/MazuSad)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MazuSad)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MazuCaringSoul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dimmazz.github.io/SadPortfolio/)
 
 ---
